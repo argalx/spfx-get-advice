@@ -2,9 +2,9 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+SharePoint Webpart that fetch Advice from an API randomly. This is developed via SharePoint Framework using React.
 
-[picture of the solution in action, if possible]
+![alt text](src/webparts/spfxGetAdvice/assets/image.png)
 
 ## Used SharePoint Framework Version
 
