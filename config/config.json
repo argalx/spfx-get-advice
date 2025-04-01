@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "spfx-get-advice-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spfxGetAdvice/SpfxGetAdviceWebPart.js",
+          "manifest": "./src/webparts/spfxGetAdvice/SpfxGetAdviceWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpfxGetAdviceWebPartStrings": "lib/webparts/spfxGetAdvice/loc/{locale}.js"
+  }
+}

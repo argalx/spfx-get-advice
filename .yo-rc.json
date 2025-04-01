@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.6",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "spfx-get-advice",
+    "libraryId": "6e838996-eb5f-4c67-b38e-fc4817a59c08",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-get-advice",
+    "solutionShortDescription": "spfx-get-advice description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

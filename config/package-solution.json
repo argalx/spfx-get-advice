@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-get-advice-client-side-solution",
+    "id": "6e838996-eb5f-4c67-b38e-fc4817a59c08",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-get-advice description"
+      },
+      "longDescription": {
+        "default": "spfx-get-advice description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-get-advice Feature",
+        "description": "The feature that activates elements of the spfx-get-advice solution.",
+        "id": "72bac5cc-c764-40e4-8f8a-79ec1ef69cfc",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-get-advice.sppkg"
+  }
+}
