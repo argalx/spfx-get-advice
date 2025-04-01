@@ -85,6 +85,7 @@ const SpfxGetAdvice: React.FC<ISpfxGetAdviceProps> = () => {
       <button onClick={getAdvice} className={styles.button}>
         Get Advice
       </button>
+      {/* // Create a Message component that will display the advice read count */}
       <p>
         You have read <strong>{count}</strong> pieces of advice.
       </p>
