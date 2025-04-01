@@ -27,7 +27,7 @@ SharePoint Webpart that fetch Advice from an API randomly. This is developed via
 
 | Version | Date           | Comments        |
 | ------- | -------------- | --------------- |
-| 1.0     | April 01, 2021 | Initial release |
+| 1.0     | April 01, 2025 | Initial release |
 
 ## Disclaimer
 
